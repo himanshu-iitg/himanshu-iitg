@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himanshu-iitg
-- 👀 I’m interested in robotics research and AI
+- 👀 I’m interested in businesses that innovate in healthcare, robotics research and Gen AI
 - 🌱 I’m currently learning to gather data and give decisions using ML for respiratory diseases
 - 💞️ I’m looking to collaborate on anything that excites me!!
 
